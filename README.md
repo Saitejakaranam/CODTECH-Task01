@@ -1,4 +1,4 @@
-![eco](https://github.com/user-attachments/assets/4c9d10d9-90ea-4b39-8e40-c575b897e57f)
+
 Name: Karanam Siva Sai Teja
 Company: CODTECH IT SOLUTIONS
 ID: CT12DS292
@@ -28,5 +28,7 @@ Scene Builder:
  Scene Builder is a helpful tool included with JavaFX. It allows you to visually design the user interface (UI) by dragging and dropping UI components, setting properties, and previewing the layout in real-time. This can significantly improve the development workflow for designing the calculator's interface.
 Even though Scene Builder is optional, it's a widely used tool for JavaFX development and can significantly enhance the development experience, especially when dealing with complex user interfaces.
 
-
+![Screenshot 2024-07-15 200110](https://github.com/user-attachments/assets/69e9c5e2-9d57-4e15-9fcf-6c72b29bcdc3)
+![Screenshot 2024-07-15 200139](https://github.com/user-attachments/assets/17641aa7-4ed3-4936-a38e-e10908c75c99)
+![Screenshot 2024-07-15 200159](https://github.com/user-attachments/assets/90eadb10-fa26-4e3c-b470-98203756ba09)
 
